@@ -8,7 +8,11 @@ The project uses TF-IDF text representation and a class-balanced Linear Support 
 - Neutral
 - Negative
 
-An interactive Streamlit application is included for real-time sentiment prediction.
+## 🚀 Live Demo
+
+Try the deployed Streamlit application:
+
+**[Open Customer Feedback Sentiment Analyzer](https://sakshi-customer-feedback-nlp.streamlit.app)**
 
 ---
 
